@@ -43,7 +43,7 @@ def load_policy(ac, model_path):
 
 
 def test_sac_policy(env_class, reset_noise=0.1, action_noise_scale=0.05,
-                    model_path='droneWeights.pth', num_test_episodes=10):
+                    model_path='Weights.pth', num_test_episodes=10):
     print(f"Attempting to load SAC policy from: {model_path}")
 
     env = None
