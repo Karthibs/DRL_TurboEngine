@@ -66,15 +66,15 @@ You can modify the track design, boundaries, and rules.
 ## 📸 Demo Assets
 ### 🖼 Rover Image
 An image showcasing the rover used during training.
-```
-assets/rover_image.png
-```
+
+![Rover Image](assets/Rover.jpeg)
+
 
 ### 🎥 Navigation Demo Video
 A video of the rover navigating through the track.
-```
-assets/rover_track_demo.mp4
-```
+
+![alt](assets/TopView.gif)
+
 
 ---
 
