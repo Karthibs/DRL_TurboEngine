@@ -38,13 +38,13 @@ You can modify the track design, boundaries, and rules.
 ---
 
 
-### 🖼 Rover Image
+###  Rover Image
 An image showcasing the rover used during training.
 
 ![Rover Image](assets/Rover.jpeg)
 
 
-### 🎥 Navigation Demo Video
+###  Navigation Demo Video
 A video of the rover navigating through the track.
 
 ![alt](assets/TopView.gif)
